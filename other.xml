@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="settin&#10;settings" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="settings repos&#10;sync&#10;format&#10;hidden characters&#10;lugin" />
+    <property name="TrendingPluginsSearchHistory" value="sortBy:rating&#10;sortBy:updated&#10;featured&#10;sortBy:featured&#10;markdown" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.2" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/development/Work&#10;/Users/jacebabin/development/Isagenix/IsaLife-Client/DEV/src/Qualia - Mobile Only.sln&#10;/Users/jacebabin/development/Isagenix&#10;/Users/jacebabin/development/Isagenix/IsaLife-Client&#10;/Users/jacebabin/development/TEE-CLC-14.134.0/tf" />
+    <property name="fileTypeChangedCounter" value="9" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/ChrisRM/material-theme-jetbrains/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/development/Isagenix/IsaLife-Client/DEV/src" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

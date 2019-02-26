@@ -1,0 +1,40 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://isagenix-mobileapp.visualstudio.com" />
+          <option name="serverUri" value="https://isagenix-mobileapp.visualstudio.com" />
+          <option name="userId" value="8873d290-2b8c-6825-accf-91322d1ac59d" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6669bc25-e2bc-4e58-9f41-a06476f64829&quot;,&quot;name&quot;:&quot;isagenix-mobileapp&quot;,&quot;url&quot;:&quot;https://isagenix-mobileapp.visualstudio.com/_apis/projectCollections/6669bc25-e2bc-4e58-9f41-a06476f64829&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This is the new Mobile App Project.  Codename Qualia&quot;,&quot;id&quot;:&quot;d9beba63-6c7f-4655-9144-1981afd47216&quot;,&quot;name&quot;:&quot;Codename Qualia&quot;,&quot;revision&quot;:47,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://isagenix-mobileapp.visualstudio.com/_apis/projects/d9beba63-6c7f-4655-9144-1981afd47216&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://isagenix-mobileapp.visualstudio.com/" />
+          <option name="serverUri" value="https://isagenix-mobileapp.visualstudio.com" />
+          <option name="userId" value="8873d290-2b8c-6825-accf-91322d1ac59d" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6669bc25-e2bc-4e58-9f41-a06476f64829&quot;,&quot;name&quot;:&quot;isagenix-mobileapp&quot;,&quot;url&quot;:&quot;https://isagenix-mobileapp.visualstudio.com/_apis/projectCollections/6669bc25-e2bc-4e58-9f41-a06476f64829&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This is the new Mobile App Project.  Codename Qualia&quot;,&quot;id&quot;:&quot;d9beba63-6c7f-4655-9144-1981afd47216&quot;,&quot;name&quot;:&quot;Codename Qualia&quot;,&quot;revision&quot;:47,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://isagenix-mobileapp.visualstudio.com/_apis/projects/d9beba63-6c7f-4655-9144-1981afd47216&quot;}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="$USER_HOME$/development/TEE-CLC-14.134.0/tf" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/development/Work" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//isagenix-mobileapp.visualstudio.com" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
